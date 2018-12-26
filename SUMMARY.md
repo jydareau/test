@@ -16,6 +16,7 @@
 ## Configuration
 
 * [Groupes](configuration/untitled.md)
+* [Intune MDM Authority?](configuration/intune-mdm-authority.md)
 
 ## Device Enrollement
 
