@@ -32,14 +32,28 @@
 
 ## Enrollement IOS
 
-## AZURE SECIRITY CENTER
+## AZURE SECURITY CENTER
 
-* [Capabilities](azure-secirity-center/capabilities.md)
-* [Video: Security Center](azure-secirity-center/video-security-center.md)
-* [Use Cases](azure-secirity-center/use-cases.md)
-* [10 Security Issues You Can Fix with Azure Security Center](azure-secirity-center/10-security-issues-you-can-fix-with-azure-security-center.md)
-* [Pricing](azure-secirity-center/pricing.md)
-* [Security Center Dashboard](azure-secirity-center/security-center-dashboard.md)
-* [Demonstration: Security Center](azure-secirity-center/demonstration-security-center.md)
-* [Integrate & Analyze Security Center Insights](azure-secirity-center/integrate-and-analyze-security-center-insights.md)
+* [Capabilities](azure-security-center/capabilities.md)
+* [Video: Security Center](azure-security-center/video-security-center.md)
+* [Use Cases](azure-security-center/use-cases.md)
+* [10 Security Issues You Can Fix with Azure Security Center](azure-security-center/10-security-issues-you-can-fix-with-azure-security-center.md)
+* [Pricing](azure-security-center/pricing.md)
+* [Security Center Dashboard](azure-security-center/security-center-dashboard.md)
+* [Demonstration: Security Center](azure-security-center/demonstration-security-center.md)
+* [Integrate & Analyze Security Center Insights](azure-security-center/integrate-and-analyze-security-center-insights.md)
+
+## Security Policies
+
+* [Security Policies](security-policies/security-policies.md)
+* [Subscription Level Settings](security-policies/subscription-level-settings.md)
+* [Prevention Policies](security-policies/prevention-policies.md)
+* [Email Notifications](security-policies/email-notifications.md)
+* [Untitled](security-policies/untitled.md)
+
+## Recommendations
+
+* [Recommendations](recommendations/recommendations.md)
+* [Untitled](recommendations/untitled.md)
+* [Untitled](recommendations/untitled-1.md)
 
