@@ -32,3 +32,14 @@
 
 ## Enrollement IOS
 
+## AZURE SECIRITY CENTER
+
+* [Capabilities](azure-secirity-center/capabilities.md)
+* [Video: Security Center](azure-secirity-center/video-security-center.md)
+* [Use Cases](azure-secirity-center/use-cases.md)
+* [10 Security Issues You Can Fix with Azure Security Center](azure-secirity-center/10-security-issues-you-can-fix-with-azure-security-center.md)
+* [Pricing](azure-secirity-center/pricing.md)
+* [Security Center Dashboard](azure-secirity-center/security-center-dashboard.md)
+* [Demonstration: Security Center](azure-secirity-center/demonstration-security-center.md)
+* [Integrate & Analyze Security Center Insights](azure-secirity-center/integrate-and-analyze-security-center-insights.md)
+
