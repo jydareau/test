@@ -6,5 +6,5 @@ L’autorité MDM \(Mobile Device Management\) détermine où vous allez exécut
 
 La meilleure décision de conception est de définir l’autorité MDM \(Mobile Device Management\) sur Intune. Vous pouvez définir la section autorité MDM Microsoft\_Intune\_Enrollment / OverviewBlade / overview à partir du portail Azure
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/autority.PNG)
 

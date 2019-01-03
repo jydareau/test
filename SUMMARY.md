@@ -13,10 +13,22 @@
 * [iOS DEP enrollmentUser authentication via Company Portal](ios/ios-dep-enrollmentuser-authentication-via-company-portal.md)
 * [Company Portal](ios/company-portal.md)
 
+## ANDROID
+
+* [Types of Android Enrollment Intune](android/types-of-android-enrollment-intune.md)
+
+## Windows
+
+* [Inscrire vos appareils Windows 10 dans Intune](windows/inscrire-vos-appareils-windows-10-dans-intune.md)
+* [Hybrid Enrolling Corporate Windows 10 Devices into Intune](windows/hybrid-enrolling-corporate-windows-10-devices-into-intune.md)
+* [Managing Windows 10 with Intune – The Many Ways to Enrol](windows/managing-windows-10-with-intune-the-many-ways-to-enrol.md)
+
 ## Configuration
 
-* [Groupes](configuration/untitled.md)
 * [Intune MDM Authority?](configuration/intune-mdm-authority.md)
+* [Apple Push](configuration/apple-push.md)
+* [Powershell Création de la configutaration](configuration/powershell-creation-de-la-configutaration.md)
+* [Configuration MDM User Scope & Device](configuration/untitled.md)
 
 ## Device Enrollement
 
@@ -24,14 +36,11 @@
 * [Android](device-configuration/android.md)
 * [Windows](device-configuration/windows.md)
 * [Block personally-owned devices](device-configuration/untitled.md)
-* [Inscrire vos appareils Windows 10 dans Intune](device-configuration/inscrire-vos-appareils-windows-10-dans-intune.md)
-* [Hybrid Enrolling Corporate Windows 10 Devices into Intune](device-configuration/hybrid-enrolling-corporate-windows-10-devices-into-intune.md)
-* [Force Enrollment using Conditional Access](device-configuration/force-enrollment-using-conditional-access.md)
-* [Managing Windows 10 with Intune – The Many Ways to Enrol](device-configuration/managing-windows-10-with-intune-the-many-ways-to-enrol.md)
 
-## ANDROID
+## Conditionnal Access
 
-* [Types of Android Enrollment Intune](android/types-of-android-enrollment-intune.md)
+* [Force Enrollment using Conditional Access](conditionnal-access/force-enrollment-using-conditional-access.md)
+* [How to enforce usage of email apps on Android with Microsoft Intune](conditionnal-access/how-to-enforce-usage-of-email-apps-on-android-with-microsoft-intune.md)
 
 ## Device Compliance
 
@@ -61,8 +70,4 @@
 * [Recommendations](recommendations/recommendations.md)
 * [Untitled](recommendations/untitled.md)
 * [Untitled](recommendations/untitled-1.md)
-
-## Conditionnal Access
-
-* [How to enforce usage of email apps on Android with Microsoft Intune](conditionnal-access/how-to-enforce-usage-of-email-apps-on-android-with-microsoft-intune.md)
 
