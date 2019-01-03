@@ -27,6 +27,7 @@
 * [Inscrire vos appareils Windows 10 dans Intune](device-configuration/inscrire-vos-appareils-windows-10-dans-intune.md)
 * [Hybrid Enrolling Corporate Windows 10 Devices into Intune](device-configuration/hybrid-enrolling-corporate-windows-10-devices-into-intune.md)
 * [Force Enrollment using Conditional Access](device-configuration/force-enrollment-using-conditional-access.md)
+* [Managing Windows 10 with Intune – The Many Ways to Enrol](device-configuration/managing-windows-10-with-intune-the-many-ways-to-enrol.md)
 
 ## ANDROID
 
