@@ -35,7 +35,7 @@
 * [Apple](device-configuration/apple.md)
 * [Android](device-configuration/android.md)
 * [Windows](device-configuration/windows.md)
-* [Block personally-owned devices](device-configuration/untitled.md)
+* [Restrictions de type d'appareil](device-configuration/restrictions-de-type-dappareil.md)
 
 ## Conditionnal Access
 
@@ -46,16 +46,24 @@
 
 * [Untitled](device-compliance/untitled.md)
 
+## SCEP
+
+* [Intune SCEP Connector](scep/intune-scep-connector.md)
+* [Intune – Create – Deploy SCEP Certificate to iOS Devices](scep/intune-create-deploy-scep-certificate-to-ios-devices.md)
+* [Intune – Create – Deploy SCEP Certificate to Windows Devices](scep/intune-create-deploy-scep-certificate-to-windows-devices.md)
+* [Intune Android Work SCEP Certificate](scep/intune-android-work-scep-certificate.md)
+* [WIFI Profile](scep/wifi-profile.md)
+
 ## AZURE SECURITY CENTER
 
 * [Capabilities](azure-security-center/capabilities.md)
 * [Video: Security Center](azure-security-center/video-security-center.md)
 * [Use Cases](azure-security-center/use-cases.md)
-* [10 Security Issues You Can Fix with Azure Security Center](azure-security-center/10-security-issues-you-can-fix-with-azure-security-center.md)
 * [Pricing](azure-security-center/pricing.md)
 * [Security Center Dashboard](azure-security-center/security-center-dashboard.md)
 * [Demonstration: Security Center](azure-security-center/demonstration-security-center.md)
 * [Integrate & Analyze Security Center Insights](azure-security-center/integrate-and-analyze-security-center-insights.md)
+* [10 Security Issues You Can Fix with Azure Security Center](10-security-issues-you-can-fix-with-azure-security-center.md)
 
 ## Security Policies
 

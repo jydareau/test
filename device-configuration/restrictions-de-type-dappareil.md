@@ -1,4 +1,27 @@
-# Block personally-owned devices
+# Restrictions de type d'appareil
+
+ Un appareil doit respecter les restrictions d'inscription affectées à l'utilisateur qui ont la priorité la plus haute. Vous pouvez faire glisser une restriction d'appareil pour changer sa priorité. Les restrictions par défaut ont la priorité la plus basse pour tous les utilisateurs et régissent les inscriptions sans utilisateur. Les restrictions par défaut peuvent être modifiées, mais pas supprimées.
+
+![](../.gitbook/assets/image%20%282%29.png)
+
+  
+
+
+### Restrictions de type d'appareil
+
+#### Selectionner les plateformes par défaut et autoriser l'inscription des plateformes
+
+![](../.gitbook/assets/image%20%288%29.png)
+
+####  Configurer des plateformes
+
+![](../.gitbook/assets/image%20%2815%29.png)
+
+Limites d'appareil
+
+## Bloquer les appareils Personnel
+
+
 
 #### Microsoft Intune standalone
 
