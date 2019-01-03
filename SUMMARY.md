@@ -25,12 +25,16 @@
 * [Windows](device-configuration/windows.md)
 * [Block personally-owned devices](device-configuration/untitled.md)
 * [Inscrire vos appareils Windows 10 dans Intune](device-configuration/inscrire-vos-appareils-windows-10-dans-intune.md)
+* [Hybrid Enrolling Corporate Windows 10 Devices into Intune](device-configuration/hybrid-enrolling-corporate-windows-10-devices-into-intune.md)
+* [Force Enrollment using Conditional Access](device-configuration/force-enrollment-using-conditional-access.md)
+
+## ANDROID
+
+* [Types of Android Enrollment Intune](android/types-of-android-enrollment-intune.md)
 
 ## Device Compliance
 
 * [Untitled](device-compliance/untitled.md)
-
-## Enrollement IOS
 
 ## AZURE SECURITY CENTER
 
