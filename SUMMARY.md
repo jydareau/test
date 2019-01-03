@@ -44,7 +44,12 @@
 
 ## Device Compliance
 
-* [Untitled](device-compliance/untitled.md)
+## Applications
+
+* [Microsoft Intune: Windows Company Portal App – Yes! you should be deploying it!](applications/microsoft-intune-windows-company-portal-app-yes-you-should-be-deploying-it.md)
+* [Comment deployer "Company Portal" avec Store for Business and Intune](applications/untitled.md)
+* [Comment deployer Apple iTunes avec Store for Business and Intune](applications/comment-deployer-apple-itunes-avec-store-for-business-and-intune.md)
+* [How to deploy Windows Local Experience Packs with Intune](applications/how-to-deploy-windows-local-experience-packs-with-intune.md)
 
 ## SCEP
 

@@ -11,11 +11,11 @@
 
 #### Selectionner les plateformes par défaut et autoriser l'inscription des plateformes
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 ####  Configurer des plateformes
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2818%29.png)
 
 Limites d'appareil
 
