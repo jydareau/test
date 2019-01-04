@@ -6,7 +6,7 @@ Android Enrollment options within Intune. Currently there are 3 types of Android
 * Work Profiles \(Commonly referred to as Android for Work\)
 * COSU \(Corporate Owned Single Use\)
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 Work Profiles and COSU sit within the **Android Enterprise** category.
 

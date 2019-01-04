@@ -6,7 +6,7 @@ description: Pré-configuration
 
 ## Configuration MDM User Scope
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
 ## Compte ayant le droit d'auto enrollement Intune
 
