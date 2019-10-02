@@ -55,9 +55,9 @@ By default, all prevention policies are turned on. [Prevention policies](https:/
           you to provision a virtual appliance.</p>
         <p><b>Vulnerability Assessment</b>. Recommends that you install a vulnerability
           assessment solution on your VM.</p>
-        <p><b>SQL auditing & Threat detection</b>. Recommends that auditing of access
-          to Azure Database be enabled for compliance and advanced threat detection,
-          for investigation purposes.</p>
+        <p><b>SQL auditing &amp; Threat detection</b>. Recommends that auditing of
+          access to Azure Database be enabled for compliance and advanced threat
+          detection, for investigation purposes.</p>
         <p><b>SQL Encryption</b>. Recommends that encryption at rest be enabled for
           your Azure SQL Database, associated backups, and transaction log files.
           Even if your data is breached, it will not be readable.</p>

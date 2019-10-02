@@ -25,7 +25,7 @@ _Update 14 Nov 18 - Added Hybrid Azure AD \(AutoPilot\)_
           alt/>
         </p>
         <p>This enrolment method is typically used in BYOD scenarios. Once configured,
-          users can be provided instructions on how to access <b>"set up a work or school account" </b>from
+          users can be provided instructions on how to access <b>&quot;set up a work or school account&quot; </b>from
           the settings.</p>
         <p><a href="https://docs.microsoft.com/en-us/windows/client-management/mdm/mdm-enrollment-of-windows-devices#connecting-personally-owned-devices-bring-your-own-device">https://docs.microsoft.com/en-us/windows/client-management/mdm/mdm-enrollment-of-windows-devices#connecting-personally-owned-devices-bring-your-own-device</a>
         </p>
@@ -65,9 +65,9 @@ _Update 14 Nov 18 - Added Hybrid Azure AD \(AutoPilot\)_
         <p><b>Scenario 4: Azure AD Join (OOBE)</b>
         </p>
         <p>This method of setup and enrolment is a user driven enrolment via the
-          Out of Box Experience. By choosing "Setup for an organisation" and using
-          work account to sign in, the device becomes Azure AD Joined and automatically
-          enrolled into Intune.</p>
+          Out of Box Experience. By choosing &quot;Setup for an organisation&quot;
+          and using work account to sign in, the device becomes Azure AD Joined and
+          automatically enrolled into Intune.</p>
         <p>
           <img src="https://msdnshared.blob.core.windows.net/media/2018/08/AADJ1.gif"
           alt/>
@@ -79,9 +79,10 @@ _Update 14 Nov 18 - Added Hybrid Azure AD \(AutoPilot\)_
         <p>This method of enrolment is a variation of the above. It is initiated
           from the settings menu after a windows profile has already been setup.
           For cases where a user has already setup a Windows user profile, they can
-          go to "Add a work or School Account" , then select "Join this device to
-          Azure Active Directory". Once rebooted, the user can logon with their Azure
-          AD credentials and the device will become enrolled into Intune.</p>
+          go to &quot;Add a work or School Account&quot; , then select &quot;Join
+          this device to Azure Active Directory&quot;. Once rebooted, the user can
+          logon with their Azure AD credentials and the device will become enrolled
+          into Intune.</p>
         <p><a href="https://msdnshared.blob.core.windows.net/media/2018/08/Annotation-1.png"><img src="https://msdnshared.blob.core.windows.net/media/2018/08/Annotation-1.png" alt/></a>
         </p>
         <p><a href="https://docs.microsoft.com/en-us/azure/active-directory/user-help/user-help-join-device-on-network#to-join-an-already-configured-windows-10-device">https://docs.microsoft.com/en-us/azure/active-directory/user-help/user-help-join-device-on-network#to-join-an-already-configured-windows-10-device</a>
@@ -109,7 +110,7 @@ _Update 14 Nov 18 - Added Hybrid Azure AD \(AutoPilot\)_
         <br />This is the newest method of enrollment made available in Windows 10 1809.The
         end user experience is almost the same as Azure AD Join (AutoPilot) scenario
         above, the main difference is that the admin configures <b>Hybrid Azure AD Join </b>when
-        creating the AutoPilot profile and configures a connector between AD ->
+        creating the AutoPilot profile and configures a connector between AD -&gt;
         Intune.<a href="https://docs.microsoft.com/en-us/intune/windows-autopilot-hybrid">https://docs.microsoft.com/en-us/intune/windows-autopilot-hybrid</a> 
       </td>
     </tr>
@@ -132,15 +133,15 @@ _Update 14 Nov 18 - Added Hybrid Azure AD \(AutoPilot\)_
         <p><b>Scenario 8: Azure AD Device Registration + Automatic Enrolment Group Policy Object</b>
         </p>
         <p>Intune enrolment for Domain joined Windows 10 devices can be automated
-          using a GPO <b>"Enable Automatic MDM enrolment using default Azure AD Credentials"<br /></b>
+          using a GPO <b>&quot;Enable Automatic MDM enrolment using default Azure AD Credentials&quot;<br /></b>
         </p>
         <p>
           <img src="https://msdnshared.blob.core.windows.net/media/2018/08/083118_0616_ManagingWin4.png"
           alt/>
         </p>
         <p>Note: This is different to Azure AD Device Registration GPO. That GPO
-          will only control the registration of the device and make it "Hybrid Azure
-          AD Joined", it will not enrol the device into Intune.</p>
+          will only control the registration of the device and make it &quot;Hybrid
+          Azure AD Joined&quot;, it will not enrol the device into Intune.</p>
         <p><b>Before Enabling GPO<br /></b>
         </p>
         <p>Device Registration Cert (Local computer store)</p>
@@ -186,7 +187,7 @@ _Update 14 Nov 18 - Added Hybrid Azure AD \(AutoPilot\)_
           alt/>
         </p>
         <p>Bulk enrolment is the name given to devices Azure AD Joined using a Bulk
-          enrolment token. A bulk enrolment token can be created by IT admins using <b>"set up school PCs" </b>or <b>Windows configuration Designer </b>apps
+          enrolment token. A bulk enrolment token can be created by IT admins using <b>&quot;set up school PCs&quot; </b>or <b>Windows configuration Designer </b>apps
           from the store. In this scenario, the IT admin prepares Windows devices
           with a USB key (Azure AD Join and Intune enrolment) ready for first user
           logon.</p>
@@ -204,8 +205,8 @@ _Update 14 Nov 18 - Added Hybrid Azure AD \(AutoPilot\)_
           on.</p>
         <p>The Azure AD Join and Intune enrolment is fully automated without any
           user interaction.</p>
-        <p>It's currently in preview and can be configured by choosing these options
-          in your autopilot profile in the Intune console:</p>
+        <p>It&apos;s currently in preview and can be configured by choosing these
+          options in your autopilot profile in the Intune console:</p>
         <p>
           <img src="https://msdnshared.blob.core.windows.net/media/2018/08/083118_0616_ManagingWin9.png"
           alt/>
